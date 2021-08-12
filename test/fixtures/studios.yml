@@ -3,6 +3,7 @@
 one:
   name: MyString
   phone: MyString
+  email: MyString
   website: MyString
   categories: MyString
   full_address: MyString
@@ -16,6 +17,7 @@ one:
 two:
   name: MyString
   phone: MyString
+  email: MyString
   website: MyString
   categories: MyString
   full_address: MyString

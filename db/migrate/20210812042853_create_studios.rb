@@ -3,6 +3,7 @@ class CreateStudios < ActiveRecord::Migration[6.1]
     create_table :studios do |t|
       t.string :name
       t.string :phone
+      t.string :email
       t.string :website
       t.string :categories
       t.string :full_address
