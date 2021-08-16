@@ -23,5 +23,6 @@ class StudiosController < ApplicationController
   def show
     @studio = Studio.find(params[:id])
   end
+  # Left off at index.html getting json studios back succesfully.
 
 end
